@@ -1,5 +1,5 @@
 Var is variables
 x is name of the variables
-= is is assignment , giving to asssigne to varibles
+= is is assignment , giving to asssigne to variables
 ; is use end the statement
 Variable  is like a cardboard that stores information 
