@@ -1,5 +1,12 @@
-Var is variables
-x is name of the variables
+Var is variable
+x is name of the variable
 = is is assignment , giving to asssigne to variables
 ; is use end the statement
-Variable  is like a cardboard that stores information 
+Variables  is like a cardboard that stores information 
+That is  who you break down the sytax 
+
+Number say "4"
+Booleans say "true or False
+String say a word "Hi"
+Null has no value
+These are some primative type of variable 
